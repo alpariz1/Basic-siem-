@@ -1,0 +1,10 @@
+2024-06-07 10:00:00 INFO Successful Login
+2024-06-07 10:05:00 WARNING Failed Login
+2024-06-07 10:20:00 user ýnhappy
+2024-06-07 10:10:00 INFO Successful Login
+2024-06-07 10:15:00 ERROR Failed Login
+2024-06-07 10:20:00 INFO Successful Login
+2024-06-07 10:20:00 deneme yazýsý x olayý
+2024-06-07 10:20:00 INFO  X EVENT  
+2024-06-07 10:20:00 user doing his own job
+2024-06-07 10:20:00 user sleeping
